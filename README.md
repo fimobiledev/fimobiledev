@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaleb Fink</h1>
-<h3 align="center">ios, andorid, Unity(AR/VR</h3>
+<h3 align="center">ios, andorid, Unity(AR/VR)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fimobiledev&label=Profile%20views&color=0e75b6&style=flat" alt="fimobiledev" /> </p>
 
